@@ -37,4 +37,4 @@ To run the program:
    ```bash
    javac src/*.java
    java -cp src Pyramid map1.txt
-There are 5 tester maps. So, mapX.txt will change the map
+There are 5 tester maps. So, mapx.txt will change the map

@@ -1,0 +1,8 @@
+# IDE and configuration files
+.settings/
+.project
+.classpath
+
+# Compiled files and build directories
+bin/
+doc/
